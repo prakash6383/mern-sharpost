@@ -1,0 +1,9 @@
+
+body {
+     background: linear-gradient(to right, #485563, #29323c);
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
